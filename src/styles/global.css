@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+
+@layer base {
+  html, body {
+    font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+.google-sans {
+  font-family: "Montserrat", system-ui, sans-serif;
+}
+
